@@ -1,0 +1,4 @@
+score a_example:8
+score b_should_be_easy.in:55,731
+score c_no_hurry.in:128,142
+score  d_metropolis.in:530,280
